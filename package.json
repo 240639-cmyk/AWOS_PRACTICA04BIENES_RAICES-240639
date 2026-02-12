@@ -2,23 +2,24 @@
   "name": "awos_practica04bienes_raices-240639",
   "version": "1.0.0",
   "description": "---\r <p align=\"justify\">\r En este proyecto se prondan en ejemplo práctico la creación de API's propias así como el consumo de API´s de Terceros (Gestión de Mapas, Envío de Correos, Autentificación por Redes Sociales, Gestión de Bases de Datos, Gestión de Archivos, Seguridad, Control de Sesiónes y validaciones. En el contexto real de la compra, venta o renta de propiedades.</p>",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/240639-cmyk/AWOS_PRACTICA04BIENES_RAICES-240639#readme",
+  "bugs": {
+    "url": "https://github.com/240639-cmyk/AWOS_PRACTICA04BIENES_RAICES-240639/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/240639-cmyk/AWOS_PRACTICA04BIENES_RAICES-240639.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/240639-cmyk/AWOS_PRACTICA04BIENES_RAICES-240639/issues"
+  "author": "Sharely Lilian Gonzalez Velazquez",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/240639-cmyk/AWOS_PRACTICA04BIENES_RAICES-240639#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "thunder": "^0.2.0"
   }
 }
